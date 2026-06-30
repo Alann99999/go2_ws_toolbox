@@ -1,4 +1,4 @@
-# 本人实习期间完成的 Unitree Go2 入门项目  
+# 实习期间完成的 Unitree Go2 入门项目  
 
 ##  硬件准备  
 1. Unitree Go2 EDU 版机器狗  
