@@ -1,0 +1,37 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# URDF history
+.history/
+
+# Maps (large binary files)
+*.pgm
+*.png
+*.bmp
+
+# Compiled
+*.o
+*.a
+*.so
